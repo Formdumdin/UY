@@ -1,0 +1,91 @@
+#title {
+    background-color: #4d7e3e;
+    color:#fff;
+
+  }
+  .navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight:bold;
+    }
+    .navbar {
+        padding: 0 0 4.5rem;
+      }
+          
+      h1 {
+        font-family: 'Mitr', sans-serif;
+        font-size: 4rem;
+        line-height: 1;
+        font-weight: medium;
+        }
+        .itemp{
+          
+         padding-top: -10;
+          left: 45%;
+        }
+    .container-fluid{
+        padding: 4% 15%;
+        left: 45%;
+        color: #fff;
+      }
+      .boximage{
+        padding: 11px 20%;
+        left:10% ;
+      }
+      .title-image {
+        width: 100%;
+      }
+      .dz{
+        transform: rotate(25deg);
+      }
+      d{
+        color: #FFF;
+      }
+      
+      .rainbow-text {
+        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      .rainbow-text .block-line > span {
+        display: inline-block;
+      }
+
+      p {
+        color: #8f8f8f;
+      }
+      .icon {
+        color: #0e551d;
+        margin-bottom: 1rem;
+
+      }
+      .icon:hover {
+        color: #5F9DF7;
+      }
+      
+      .nav-item{
+        padding: 0 18px;
+      }
+      .nav-link {
+        font-size: 1.2rem;
+        font-family: "Ubuntu"
+      }
+      .download-button {
+
+        margin: 5% 3% 5% 0;
+      }
+      
+            
+      #features {
+        padding: 7% 15%;
+      }
+      .feature-box{
+        text-align: center;
+        padding: 5%;
+      }
+      h3 {
+        font-family: 'Prompt', sans-serif;
+        font-weight: bold;
+      }
+      
+            
